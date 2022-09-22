@@ -1,0 +1,172 @@
+
+body{
+    background-color: #C689C6;
+    margin: 8px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+h1{
+    width: 20%;
+    margin: 10 auto 10 auto;
+    font-family: 'Sacramento', cursive;
+    color: #FFE6F7;
+    font-size: 3rem;
+    line-height: 0.5;
+}
+
+h2{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFE6F7;
+    font-weight: normal;
+}
+
+h3{
+    color: #FFE6F7;
+}
+
+
+p{
+    font-family: 'Kanit', sans-serif;
+    color: #FFE6F7;
+}
+
+hr{
+    border-style: dotted;
+    border-width: 10px;
+    border-bottom: 0;
+    width: 20%;
+    color: #937DC2;
+}
+
+
+/* div{
+    background-color: #C689C6;
+    border: black;
+    border-width: 20px;
+} */
+
+.name{
+    
+    position:relative;
+    padding-top:100px ;
+}
+
+
+
+
+.topcloud{
+    position:absolute;
+    right:300px;
+    top:40px;
+}
+
+.bottomcloud{
+    position: absolute;
+    left: 400px;
+}
+
+.mountain{
+    position:relative;
+    right: 10px;
+    height: 357px;
+    width: 500px;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+
+.datascience{
+    position:relative;
+    border-radius: 20px;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+
+.computer{
+    position:relative;
+    border-radius: 20px;
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-left: 20px;
+}
+
+.gettouch{
+    margin-bottom: 0px;
+}
+
+.gmail{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto 0 auto;
+}
+
+.lookforward{
+    margin-top: 0px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+.linkedin{
+    color: #FFE6F7;
+}
+
+.instagram{
+    color: #FFE6F7;
+}
+
+.button{
+     border-radius: 20px;
+}
+
+.bottom-container{
+    margin-top: 50px;
+
+}
+
+
+/* .student{
+    background-color: red;
+} */
+
